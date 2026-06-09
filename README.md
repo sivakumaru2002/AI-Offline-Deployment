@@ -33,8 +33,6 @@ AI-offline-deployment/
 |           |- manifests/
 ```
 
-Note: `installtion-src` under `Ollama-server-installation` is spelled without the second `a`. Keep that folder name as-is unless you also change the scripts.
-
 ## What You Need To Download
 
 ### 1. MongoDB Server
